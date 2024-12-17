@@ -1,12 +1,12 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/hishamkaram/geoserver)](https://goreportcard.com/report/github.com/hishamkaram/geoserver)
-[![GitHub license](https://img.shields.io/github/license/hishamkaram/geoserver.svg)](https://github.com/hishamkaram/geoserver/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/hishamkaram/geoserver.svg)](https://github.com/hishamkaram/geoserver/issues)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hippopos/geoserver)](https://goreportcard.com/report/github.com/hippopos/geoserver)
+[![GitHub license](https://img.shields.io/github/license/hishamkaram/geoserver.svg)](https://github.com/hippopos/geoserver/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/hishamkaram/geoserver.svg)](https://github.com/hippopos/geoserver/issues)
 [![Coverage Status](https://coveralls.io/repos/github/hishamkaram/geoserver/badge.svg?branch=master&service=github)](https://coveralls.io/github/hishamkaram/geoserver?branch=master&service=github)
 [![Build Status](https://travis-ci.org/hishamkaram/geoserver.svg?branch=master)](https://travis-ci.org/hishamkaram/geoserver)
-[![Documentation](https://godoc.org/github.com/hishamkaram/geoserver?status.svg)](https://godoc.org/github.com/hishamkaram/geoserver?)
-[![GitHub forks](https://img.shields.io/github/forks/hishamkaram/geoserver.svg)](https://github.com/hishamkaram/geoserver/network)
-[![GitHub stars](https://img.shields.io/github/stars/hishamkaram/geoserver.svg)](https://github.com/hishamkaram/geoserver/stargazers)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/hishamkaram/geoserver/edit/master/README.md.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fhishamkaram%2Fgeoserver%2Fedit%2Fmaster%2FREADME.md)
+[![Documentation](https://godoc.org/github.com/hippopos/geoserver?status.svg)](https://godoc.org/github.com/hippopos/geoserver?)
+[![GitHub forks](https://img.shields.io/github/forks/hishamkaram/geoserver.svg)](https://github.com/hippopos/geoserver/network)
+[![GitHub stars](https://img.shields.io/github/stars/hishamkaram/geoserver.svg)](https://github.com/hippopos/geoserver/stargazers)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/hippopos/geoserver/edit/master/README.md.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fhishamkaram%2Fgeoserver%2Fedit%2Fmaster%2FREADME.md)
 
 
 
@@ -106,7 +106,7 @@ geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServe
       {Name:Arc_Sample Path:/ Type:RASTER DefaultStyle:{Class: Name:rain Href:http://localhost:8080/geoserver13/rest/styles/rain.json} Styles:{Class:linked-hash-set Style:[{Class: Name:raster Href:http://localhost:8080/geoserver13/rest/styles/raster.json}]} Resource:{Class:coverage Name:nurc:Arc_Sample Href:http://localhost:8080/geoserver13/rest/workspaces/nurc/coveragestores/arcGridSample/coverages/Arc_Sample.json} Queryable:false Opaque:false Attribution:{Title: Href: LogoURL: LogoType: LogoWidth:0 LogoHeight:0}}
        ```
   - You can find more examples by check testing files
-  - You can find all supported operations on [Godocs](https://godoc.org/github.com/hishamkaram/geoserver)
+  - You can find all supported operations on [Godocs](https://godoc.org/github.com/hippopos/geoserver)
   ---
 
 ### TESTING
@@ -120,4 +120,4 @@ geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServe
 | 6 | 1.15.x     | 2.14.x            | :heavy_check_mark: |
 
 ___
-### [Documentation](https://godoc.org/github.com/hishamkaram/geoserver)
+### [Documentation](https://godoc.org/github.com/hippopos/geoserver)
